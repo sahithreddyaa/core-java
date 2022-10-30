@@ -11,7 +11,7 @@ public class Rectangle implements Area{
 	public void area() {
 		// TODO Auto-generated method stub
 		int value = a*b;
-		System.out.print("The area is:");
+		System.out.print("The Area is:");
 		System.out.println(value);
 		
 	}
